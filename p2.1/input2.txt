@@ -1,0 +1,13 @@
+I,one,2 one end of the big barn
+I,end,2 one end of the big barn
+R,one
+I,big,2 one end of the big barn
+F,one
+I,barn,2 one end of the big barn
+I,major,2 major was ensconced on his bed
+I,already,2 was already ensconced on his bed
+F,barn
+I,ensconced,2 was already ensconced on his bed
+R,barn
+I,bed,2 was already ensconced on his bed
+F,barn

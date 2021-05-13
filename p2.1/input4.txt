@@ -1,0 +1,13 @@
+I,one,4 At one end of the barn
+I,end,4 At one end of the barn
+R,one
+I,big,4 At one end of the big
+F,one
+I,barn,4 At one end of the barn
+I,major,4 major was already ensconced on bed
+I,already,4 major was already ensconced on bed
+F,barn
+I,ensconced,4 major was already ensconced on bed
+R,barn
+I,bed,4 major was already ensconced on bed
+F,barn

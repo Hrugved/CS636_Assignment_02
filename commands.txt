@@ -1,0 +1,14 @@
+p1]
+g++ -std=c++14 -c p1.cpp LFqueue.cpp
+g++ -lpthread -latomic -o main p1.o LFqueue.o
+./main
+
+p2.1]
+g++ -std=c++14 -c p2.1.cpp hashtable.cpp
+g++ -lpthread -o main p2.1.o hashtable.o
+./main
+
+p2.2]
+g++ -std=c++14 -c p2.2.cpp hashtable.cpp
+g++ -lpthread -latomic -o main p2.2.o hashtable.o
+./main
